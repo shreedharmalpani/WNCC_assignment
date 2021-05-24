@@ -87,7 +87,7 @@ int main () {
   //cout<<"ENTER NO. OF ROWS"<<endl;   earlier it wasn't mentioned that all files will have same no. of row inputs as Schedule.txt
   int m;
   //cin>>m;   if file has different no. of row inputs
-  m=22;
+  m=22;// as Schedule.txt has 22 row input
   
   string names[m];
   int start_times[m];
