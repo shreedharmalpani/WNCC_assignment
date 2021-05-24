@@ -1,2 +1,3 @@
 # WNCC_assignment
-WNCC convener assignment
+
+HONOUR CODE
